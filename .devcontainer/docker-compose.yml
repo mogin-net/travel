@@ -5,6 +5,7 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: mogin-grand-bali-luxe
+    platform: linux/amd64
     restart: unless-stopped
     volumes:
       - ..:/workspace:cached

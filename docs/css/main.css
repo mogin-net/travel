@@ -162,7 +162,7 @@ pre {
   border-right: 1px dashed #9CB862;
   border-top: 4px solid #9CB862;
   border-bottom: 4px solid #9CB862;
-  background-color: #dadbda;
+  background-color: rgb(217.819047619, 218.980952381, 217.819047619);
   overflow-x: auto;
   margin: 1em 0em;
 }
